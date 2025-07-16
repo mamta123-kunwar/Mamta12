@@ -1,5 +1,5 @@
 import streamlit as st
-from openai import OpenAI
+ import OpenAI
 
 # ⛔ Yahan apni OpenAI API key paste karo (example: sk-abc123xyz...)
 client = OpenAI(api_key="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")
